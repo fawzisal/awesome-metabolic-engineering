@@ -25,19 +25,32 @@ Mostly tools related to constraint-based modelling/flux balance analysis.
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
+- [Toolboxes](#toolboxes)
+- [Model Repositories](#model-repositories)
+- [Abbreviations](#model-repositories)
 - [Follow](#follow)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Toolboxes
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- [Cobra](https://github.com/opencobra): the standard FBA tool
+	+ [CobraToolbox](https://github.com/opencobra/CobraToolbox)
+	+ [CobraPy](https://github.com/opencobra/CobraPy)
+- 
 
-## Section 1
+## Model Respositories
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+- [BiGG Models](http://bigg.ucsd.edu/) - >100 high-quality GEMs.
+
+## Labs
+
+- TBD
+
+## Abbreviations
+
+- FBA: flux balance analysis
+- GEM: genome-scale model
 
 <!-- END CONTENT -->
 
