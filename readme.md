@@ -7,7 +7,7 @@
 
 <!-- subtitle -->
 
-Packages, toolbox, models
+Packages, toolboxes, models
 
 <!-- image -->
 
@@ -17,7 +17,9 @@ Packages, toolbox, models
 
 <!-- description -->
 
-Mostly tools related to constraint-based modelling/flux balance analysis.
+A collection of tools for constraint-based modelling (CBM), flux balance analysis (FBA), and related fields. Please feel free to [contribute](contributing.md)!
+
+
 
 </div>
 
@@ -36,12 +38,12 @@ Mostly tools related to constraint-based modelling/flux balance analysis.
 
 ## Tools & Toolboxes
 
-# General Tools
+# Simulation
 - [Cobra](https://github.com/opencobra): the standard FBA tool
 	+ [CobraToolbox](https://github.com/opencobra/CobraToolbox) - in MATLAB
 	+ [CobraPy](https://github.com/opencobra/CobraPy) - in Python
 - [LCSB-BioCore/COBREXA.jl](https://github.com/LCSB-BioCore/COBREXA.jl): Cobra for exa-scale metabolic models in Julia
-- [Raven](https://github.com/SysBioChalmers/RAVEN/): Reconstruction, Analysis and Visualization of Metabolic Networks
+- [Raven](https://github.com/SysBioChalmers/RAVEN): Reconstruction, Analysis and Visualization of Metabolic Networks
 - [CellNetAnalyzer](https://www2.mpi-magdeburg.mpg.de/projects/cna/cna.html): A toolbox providing a graphical user interface and various computational methods and algorithms for exploring structural and functional properties of metabolic, signaling, and regulatory networks.
 	+ [CellNetAnalyzer](https://www2.mpi-magdeburg.mpg.de/projects/cna/cna.html) - in MATLAB
 	+ [CNApy](https://github.com/cnapy-org/CNApy) - in Python
@@ -50,6 +52,15 @@ Mostly tools related to constraint-based modelling/flux balance analysis.
 - [PySCeS Constraint Based Modelling](https://github.com/SystemsBioinformatics/cbmpy): a new platform for constraint based modelling and analysis
 - [BioSystemsUM/mewpy](https://github.com/BioSystemsUM/mewpy): Metabolic Engineering Workbench, under development, for strain design optimization
 - [maxconway/fbar](https://github.com/maxconway/fbar): Flux Balance Analysis package with a tidy data approach. Models are expected as a flat table, and results can be simply appended to the table. This makes this package very suitable for useage in pipelines with pre- and post- processing of models and results.
+
+<!--
+## OLDER
+- [MOST](https://github.com/dennisegen/MOST): in Java
+- [IBRENA](https://www.eng.buffalo.edu/~neel/ibrena): in ?
+- [sybil](https://cran.r-project.org/web/packages/sybil/index.html): in R
+- [sybilccFBA](https://cran.r-project.org/web/packages/sybilccFBA/index.html): in R
+- [sybilcycleFreeFlux](https://cran.r-project.org/web/packages/sybilcycleFreeFlux/index.html): in R
+-->
 
 # Web-based
 - [KBase](https://www.kbase.us/): An integrated platform for web-based systems biology, including tools to build, manipulate and analyze metabolic models.
