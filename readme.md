@@ -76,6 +76,7 @@ A collection of tools for constraint-based modelling (CBM), flux balance analysi
 ## Model Respositories
 
 - [BiGG Models](http://bigg.ucsd.edu/): >100 high-quality GEMs.
+- [BioModels](https://www.ebi.ac.uk/biomodels/): includes both GEM, ODE-based models and others.
 - [MetaNetX](https://www.metanetx.org/): Includes a repository of models from, for example, BiGG or the Model SEED, networks from BioCyc, and metabolic pathways from Reactome; all reconciled in a common namespace defined by MNXref.
 - [ModelSEED](https://modelseed.org/): A tool to automatically generate a metabolic model give a genome.
 
